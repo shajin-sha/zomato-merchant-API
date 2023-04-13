@@ -5,7 +5,6 @@
 
 
 
-
 #### Features included -: 
 
 
@@ -17,33 +16,6 @@
 - ✅ Go online &  Offline - status
 - ✅ Item list (Menu)
 - ✅ Item list editing (Menu editing)
-
-
-#### Features coming soon -:
-- 🕛 Mark menu outoff stock
-- 🕛 Menu item add
-- 🕛 Menu item delete
-
-
-### Pricing 🏷️ :
-
-| Per / Month | Per / 6 Months | Per / Year | Life Time |
-|-------------|----------------|------------|-----------|
-| 199.00 ₹    | 1000.00 ₹      | 2000.00 ₹ | 7500.00 ₹  |
-
-
-- <a href="tel:7907675853">Get Now 🛒<a/>
-
-#### ❔ What we offer ?
-- Self hosting (Host API on your server)
-- Free API updates *
-
-#### ❔ What we do't guarantee you ?
-- We can't guarantee you about any action from zoamto.
-
-#### ❔What do't we offer ?
-- Price back
-- Non Self hosting (We will not host your API)
 
 
 
