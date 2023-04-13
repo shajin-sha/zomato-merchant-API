@@ -16,6 +16,7 @@
 - ✅ Go online &  Offline - status
 - ✅ Item list (Menu)
 - ✅ Item list editing (Menu editing)
+- ✅ This is't web sracping, So you will get native speed of Zomato.
 
 
 
