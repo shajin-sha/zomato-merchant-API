@@ -1,7 +1,7 @@
 ### Zomato merchant API (unofficial) | 2022 - 2023
 
 
-> NOTE: I can't guarantee you will not be blocked by using this method, although it has worked for me, [More details](https://shajin-sha.github.io/zomato-api/). Trusted by many restaurant pos startups.
+> NOTE: I can't guarantee you will not be blocked by using this method, although it has worked for me, [More details](https://shajin-sha.github.io/zomato-api/).
 
 
 
