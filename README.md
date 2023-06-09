@@ -25,4 +25,35 @@
 This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Zomato or any of its subsidiaries or its affiliates. The official Zomato website can be found at https://zomato.com. "Zomato", "Zomato API", "Zomato *" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
 
 
-* *As long as your subscription continues only. 
+### Login
+``` 
+POST http://localhost:port/login
+```
+#### request body
+```
+{
+    "phone":"123456789",
+    "system_id":"demo_system"
+}
+
+```
+
+
+### OTP
+```
+POST http://localhost:10000/OTP
+```
+call this after resived OTP, (call Login API request runnning), only after callig this /login will sent request.
+
+#### request body
+```
+{
+    "otp":"323232",
+    "system_id":"demo_system"
+}
+```
+
+
+
+
+
