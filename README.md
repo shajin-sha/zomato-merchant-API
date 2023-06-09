@@ -1,5 +1,3 @@
-Certainly! Here's the complete documentation in markdown format, including the response bodies:
-
 ## Zomato Merchant API (Unofficial) | 2022 - 2023
 
 > **Disclaimer:** This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Zomato or any of its subsidiaries or affiliates. The official Zomato website can be found at [https://zomato.com](https://zomato.com). "Zomato", "Zomato API", "Zomato *" as well as related names, marks, emblems, and images are registered trademarks of their respective owners.
